@@ -1,0 +1,49 @@
+
+body {
+    background-color:rgb(232, 106, 175);
+}
+img {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+body {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+
+    
+}
+
+
+
+nav {
+
+    font-size: 2.0em;
+    color: black
+
+}
+
+
+main h1 {
+    font-size: 0.8em;
+    color: white;
+}
+
+main h2{
+    text-align: left;
+    font-size : 1.0em;
+}
+
+main p { 
+    font-size: 1.5em;
+    color: white;
+    text-align:center;
+    }
+
+footer { 
+    font-size: 1.0em;
+    }
